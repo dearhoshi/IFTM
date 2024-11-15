@@ -1,4 +1,4 @@
-### o que foi aprendido até o momento (15/11/2024)
+# o que foi ensinado até o momento (15/11/2024)
 
 - instalação do windows server 2019  
 - configuração de ip e nome do windows server  
