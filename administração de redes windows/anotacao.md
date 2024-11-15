@@ -11,3 +11,4 @@
 - ingressar o cliente no domínio  
 - trabalho prático ad - dns - clientes  
 - instalação e configuração dhcp
+- configuração do GPO
